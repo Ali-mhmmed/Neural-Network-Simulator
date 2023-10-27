@@ -1,5 +1,5 @@
 # Neural-Network-Simulator
-##and 
+## and 
 "In this project, I have created code to find the ideal weight for the AND gate
 All you need to do is input the weight values and 'a'
 
